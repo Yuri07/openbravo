@@ -1,0 +1,3 @@
+2022-05-28 09:39:19,100 [http-nio-8080-exec-10] ERROR org.hibernate.util.JDBCExceptionReporter - Entrada em lote 0 update OBKMO_Widget_Class set Isactive='N', Updated='2022-5-28 9:39:19.055000 -3:0:0', Updatedby='100', Allow_Anonymous_Access='N' where OBKMO_Widget_Class_ID='50F3F7AED43A4B31AF176F1AF0714284' foi abortada. Chame getNextException para ver a causa.
+2022-05-28 09:39:19,101 [http-nio-8080-exec-10] ERROR org.hibernate.util.JDBCExceptionReporter - ERROR: @20532@
+  Onde: PL/pgSQL function obkmo_widget_class_mod_trg() line 82 at RAISE

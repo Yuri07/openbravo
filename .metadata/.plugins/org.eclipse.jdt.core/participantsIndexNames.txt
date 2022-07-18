@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/yuri/eclipse-workspace-openbravoBR/com.openbravo-masterbr/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2206502114.index
+/com.openbravo/src-test
+/home/yuri/eclipse-workspace-openbravoBR/com.openbravo-masterbr/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/271686554.index
+/com.openbravo/src-test
